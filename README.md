@@ -1,68 +1,45 @@
-# 👋 Hi, I'm Soyab Khan
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Soyab Khan, B.Tech CSE with a specialisation in Cloud Computing, aspiring Cloud and DevOps engineer">
+</p>
 
-# B.Tech CSE | Specialization in Cloud Computing
+I'm a B.Tech CSE student specialising in Cloud Computing. I build hands-on cloud and automation projects with AWS, Python and Docker, and I'm working towards a Cloud & DevOps engineering role.
 
-I'm a passionate student interested in **Cloud Computing, DevOps, Automation, and Software Development**.
-I enjoy building practical projects and learning how modern cloud infrastructure works.
+<img src="./assets/divider.svg" width="100%" alt="">
 
----
+## Featured Projects
 
-##  Skills & Technologies
+| Project | What it does | Links |
+|---|---|---|
+| **Smart Cloud Autoscaling & Cost Optimizer** | Rule-based autoscaler that reads CPU usage with psutil, scales between 1 and 5 servers, and estimates hourly and daily cost. Flask dashboard, Docker image and a CI pipeline on GitHub Actions | [Code](https://github.com/SoyabKhan560/smart-cloud-autoscaling-cost-optimizer) |
+| **Smart Cloud Dashboard** | Web dashboard for the autoscaler with CPU, autoscaling, cost and alert pages. The live demo runs on simulated data | [Live](https://smart-cloud-autoscaling-cost-optimi.vercel.app) · [Code](https://github.com/SoyabKhan560/smart-cloud-dashboard) |
+| **AWS S3 with boto3** | Python scripts that create S3 buckets, list buckets and objects, upload files and read object size | [Code](https://github.com/SoyabKhan560/CloudAWS) |
+| **Emergency Help Page** | One-tap calls to Indian emergency numbers, live location sharing and a first-aid guide | [Live](https://soyabkhan560.github.io/shoaib-emergency-ai/) · [Code](https://github.com/SoyabKhan560/shoaib-emergency-ai) |
 
-- Cloud:* AWS
-- Languages:* Python, C/C++
-- DevOps:* Git, GitHub, Docker
-- Frameworks:*lask
-- Concepts:* Cloud Computing, Automation, CI/CD
+<img src="./assets/divider.svg" width="100%" alt="">
 
----
+## Tech Stack
 
-#  Featured Projects
+<img src="./assets/tech-stack.svg" width="100%" alt="Skills: AWS, Python, Flask, Docker, C and C++, Git, GitHub, HTML, CSS, JavaScript and Java. Currently learning DevOps and CI/CD, and cloud automation and infrastructure.">
 
-# Smart Cloud Autoscaling & Cost Optimizer
-A cloud-focused project that monitors system resources and automatically manages server scaling to improve resource utilization and reduce cost.
+<img src="./assets/divider.svg" width="100%" alt="">
 
-**Tech:** Python, Flask, psutil
+## Certifications
 
----
+| Certificate | Issued by | Date | Proof |
+|---|---|---|---|
+| **Java (Basic)** | HackerRank skill certification test | 30 Sep 2025 | [Verify](https://www.hackerrank.com/certificates/4f3dddb9a502) |
+| **Introduction to Generative AI** | Simplilearn SkillUp, course powered by Google Cloud | 24 Sep 2025 | [View](./certificates/introduction-to-generative-ai-simplilearn.pdf) |
 
-### ☁️ Cloud Computing Projects
-Hands-on cloud computing assignments and practical work covering AWS and cloud infrastructure concepts.
+<img src="./assets/divider.svg" width="100%" alt="">
 
-**Tech:** AWS, GitHub
+## Career Goal
 
----
+Aspiring **Cloud & DevOps Engineer**. I learn by building projects on real cloud services and automating how they are built and deployed.
 
-# Emergency AI
-An AI-based project focused on providing assistance during emergency situations.
+<img src="./assets/divider.svg" width="100%" alt="">
 
-**Tech:** Python
+## Connect
 
----
+- LinkedIn: [soyab-khan](https://www.linkedin.com/in/soyab-khan-9b2a33333/)
 
-# Currently Learning
-
-- AWS Cloud Services
-- Docker & Containers
-- DevOps & CI/CD
-- Cloud Automation
-- Cloud Infrastructure
-
----
-
-# Career Goal
-
-**Aspiring Cloud & DevOps Engineer**
-
-I am continuously improving my technical skills by building projects and working with real-world cloud technologies.
-
----
-
-# Connect With Me
-
--  LinkedIn — https://www.linkedin.com/in/soyab-khan-9b2a33333/
--  Portfolio — 
-
----
-
-⭐ *Always learning. Always building. Always improving.*
+Always learning. Always building. Always improving.
